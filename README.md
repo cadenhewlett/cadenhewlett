@@ -8,6 +8,8 @@
 |--------------|--------------|
 | ![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=cadenhewlett&repo=STAT447&theme=onedark) | ![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=cadenhewlett&repo=STAT443&theme=onedark) |
 
+<!--
 | My Metrics |
 |--------------|
 | ![Metrics](https://metrics.lecoq.io/cadenhewlett) |
+-->
