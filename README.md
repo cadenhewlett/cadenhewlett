@@ -1,17 +1,25 @@
-## Hi there 👋
+## My Dashboard
 
-<!--
-**cadenhewlett/cadenhewlett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+  <!-- Panel for Languages -->
+  <div style="flex: 1; background-color: #282c34; margin: 10px; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <h3 style="color: #61dafb;">My Languages</h3>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cadenhewlett&layout=compact&theme=onedark" style="width: 100%;" />
+  </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cadenhewlett&layout=compact)
+  <!-- Panel for Contributions -->
+  <div style="flex: 1; background-color: #282c34; margin: 10px; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <h3 style="color: #61dafb;">My Contributions</h3>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=cadenhewlett&theme=onedark" style="width: 100%;" />
+  </div>
+
+  <!-- Panel for Repository 1 -->
+  <div style="flex: 1; background-color: #282c34; margin: 10px; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <h3 style="color: #61dafb;">Repository 1</h3>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cadenhewlett&repo=STAT447&theme=onedark" style="width: 100%;" />
+    <h3 style="color: #61dafb;">Repository 2</h3>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cadenhewlett&repo=STAT443&theme=onedark" style="width: 100%;" />
+  
+  </div>
+
+
