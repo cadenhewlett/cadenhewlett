@@ -4,9 +4,9 @@
 |--------------|------------------|
 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cadenhewlett&layout=compact&theme=onedark) | ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=cadenhewlett&theme=onedark) |
 
-| Personal Projects | Time Series Statistics |
+| Personal Projects | Random Joke |
 |--------------|--------------|
-| ![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=cadenhewlett&repo=personal_projects&theme=onedark) | ![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=cadenhewlett&repo=STAT443&theme=onedark) |
+| ![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=cadenhewlett&repo=personal_projects&theme=onedark) | <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a> |
 
 <!--
 | My Metrics |
